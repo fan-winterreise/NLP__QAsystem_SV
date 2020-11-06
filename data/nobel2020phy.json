@@ -1,0 +1,1639 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Viken upptäckt utlöste frågan om de svarta hålens existens?",
+              "id": 46116,
+              "answers": [
+                {
+                  "answer_id": 47126,
+                  "document_id": 45264,
+                  "question_id": 46116,
+                  "text": "kvasarer",
+                  "answer_start": 94,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är de ljusstarkaste objekten i världsalltet?",
+              "id": 46117,
+              "answers": [
+                {
+                  "answer_id": 47127,
+                  "document_id": 45264,
+                  "question_id": 46117,
+                  "text": "kvasarer",
+                  "answer_start": 94,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur länge gäckat astronomer den fångade radiostrålar från 3C273 i Jungfruns stjärnbild?",
+              "id": 46118,
+              "answers": [
+                {
+                  "answer_id": 47128,
+                  "document_id": 45264,
+                  "question_id": 46118,
+                  "text": "nästan ett decennium",
+                  "answer_start": 183,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur länge färdades strålarna i synligt ljus mot oss?",
+              "id": 46289,
+              "answers": [
+                {
+                  "answer_id": 47300,
+                  "document_id": 45264,
+                  "question_id": 46289,
+                  "text": "drygt en miljard år",
+                  "answer_start": 441,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad kan antydas om ljuskällan som ligger så långt bort?",
+              "id": 46291,
+              "answers": [
+                {
+                  "answer_id": 47302,
+                  "document_id": 45264,
+                  "question_id": 46291,
+                  "text": "den ha en ljusstyrka av flera hundra galaxer tillsammans",
+                  "answer_start": 503,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Var kom denna oerhörda strålning av kvasar ifrån?",
+              "id": 46293,
+              "answers": [
+                {
+                  "answer_id": 47304,
+                  "document_id": 45264,
+                  "question_id": 46293,
+                  "text": "från materia som faller in i ett massivt svart hål",
+                  "answer_start": 832,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Gåtan om kvasarerna. Frågan om de svarta hålens existens kom upp 1963 i och med upptäckten av kvasarer som är de ljusstarkaste objekten i världsalltet. Då hade oförklarliga fenomen i nästan ett decennium gäckat astronomer som fångade radiostrålar från gåtfulla källor, som 3C273 i Jungfruns stjärnbild. Det var strålningen i synligt ljus som till slut avslöjade dess verkliga läge – 3C273 låg så långt borta att strålarna färdades mot oss i drygt en miljard år. Om ljuskällan ligger så långt bort måste den ha en ljusstyrka av flera hundra galaxer tillsammans. Den döptes till kvasar. Snart fann astronomerna flera kvasarer så långt bort att de skickade ut sina strålar i universums tidiga barndom. Var kom denna oerhörda strålning ifrån? Det finns bara ett sätt att alstra så mycket energi inom kvasarens begränsade volym – det är från materia som faller in i ett massivt svart hål.\n",
+          "document_id": 45264
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Under vilken kraft kollapsar materia när fångade ytor väl formats?",
+              "id": 46332,
+              "answers": [
+                {
+                  "answer_id": 47343,
+                  "document_id": 45271,
+                  "question_id": 46332,
+                  "text": "den starka gravitationen",
+                  "answer_start": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem berättat en saga som relaterar enkelriktat?",
+              "id": 46335,
+              "answers": [
+                {
+                  "answer_id": 47346,
+                  "document_id": 45271,
+                  "question_id": 46335,
+                  "text": "Subrahmanyan Chandrasekhar",
+                  "answer_start": 243,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad lovar larven att tala till den kamraterna?",
+              "id": 46337,
+              "answers": [
+                {
+                  "answer_id": 47348,
+                  "document_id": 45271,
+                  "question_id": 46337,
+                  "text": "hur det är på andra sidan vattenytan",
+                  "answer_start": 447,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Enkelriktat mot tidens slut. När fångade ytor väl formats då materia börjar kollapsa under den starka gravitationen, kan inget stoppa en fortsatt kollaps, det finns ingen väg tillbaka. Det påminner om en saga som fysikern och Nobelpristagaren Subrahmanyan Chandrasekhar berättat från barndomens Indien. Den handlar om trollsländor och deras larver som utvecklas i vatten. När larven är redo att bre ut sina vingar lovar den kamraterna att tala om hur det är på andra sidan vattenytan. Men när larven tar sig igenom ytan och som trollslända lyfter mot himlen finns ingen återvändo. Larverna får aldrig berättat för sig hur det ser ut på andra sidan.\n",
+          "document_id": 45271
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Viken fråga förbryllade Roger Penrose?",
+              "id": 46300,
+              "answers": [
+                {
+                  "answer_id": 47311,
+                  "document_id": 45269,
+                  "question_id": 46300,
+                  "text": "Kan svarta hål verkligen bildas",
+                  "answer_start": 26,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är Rogers yrke när han sökte savret för hur svart hål bildas?",
+              "id": 46303,
+              "answers": [
+                {
+                  "answer_id": 47314,
+                  "document_id": 45269,
+                  "question_id": 46303,
+                  "text": "professor i matematik vid Birkbeck college",
+                  "answer_start": 198,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad blev nyckeln till ett avörande matematisk verktyg för att beskriva ett svart hål?",
+              "id": 46306,
+              "answers": [
+                {
+                  "answer_id": 47317,
+                  "document_id": 45269,
+                  "question_id": 46306,
+                  "text": "fångade ytor",
+                  "answer_start": 417,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Fångade ytor löste gåtan. Kan svarta hål verkligen bildas, blev frågan för Roger Penrose. Svaret, berättade han senare, dök upp under en promenad hösten 1964 med en kollega i London där Penrose var professor i matematik vid Birkbeck college. När samtalet tystnade för en kort stund då de korsade en sidogata fick han en blixtidé som han senare på eftermiddagen fick leta efter i minnet. Denna idé som han kallade för fångade ytor blev nyckeln han omedvetet sökt efter, ett avgörande matematiskt verktyg för att beskriva ett svart hål.\n",
+          "document_id": 45269
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad känner du om du faller igenom händelsehorisonten?",
+              "id": 46345,
+              "answers": [
+                {
+                  "answer_id": 47356,
+                  "document_id": 45273,
+                  "question_id": 46345,
+                  "text": "inget särskilt",
+                  "answer_start": 287,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem kan se dig falla in händelsehorisonten?",
+              "id": 46349,
+              "answers": [
+                {
+                  "answer_id": 47360,
+                  "document_id": 45273,
+                  "question_id": 46349,
+                  "text": "ingen",
+                  "answer_start": 422,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vilken operation är det inte möjligt att göra till det svarta hålet?",
+              "id": 46350,
+              "answers": [
+                {
+                  "answer_id": 47361,
+                  "document_id": 45273,
+                  "question_id": 46350,
+                  "text": "Att kika in i det svarta hålet",
+                  "answer_start": 449,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "På liknande sätt går det att korsa det svarta hålets händelsehorisont bara åt ett håll. Tiden tar då rummets plats och alla vägar pekar bara inåt, tidens flöde bär allt och alla mot det ofrånkomliga slutet i singularitetens oändliga gap. Om du faller igenom händelsehorisonten känner du inget särskilt, förutsatt att hålet är tillräckligt stort. Däremot utifrån sett kommer din resa mot horisonten att pågå i all evighet, ingen kan se dig falla in. Att kika in i det svarta hålet är inte möjligt enligt fysikens lagar, alla svarta hål döljer noga sina hemligheter bakom sina händelsehorisonter.\n",
+          "document_id": 45273
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur många pristagare delar årets Nobelpris i fysik?",
+              "id": 44832,
+              "answers": [
+                {
+                  "answer_id": 45850,
+                  "document_id": 43716,
+                  "question_id": 44832,
+                  "text": "Tre pristagare",
+                  "answer_start": 51,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är en direkt följd av den allmänna relativitetsteorin?",
+              "id": 44839,
+              "answers": [
+                {
+                  "answer_id": 45859,
+                  "document_id": 43716,
+                  "question_id": 44839,
+                  "text": "svarta hål",
+                  "answer_start": 197,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem upptäckte mitten av vår egen galax Vintergatan?",
+              "id": 44845,
+              "answers": [
+                {
+                  "answer_id": 45865,
+                  "document_id": 43716,
+                  "question_id": 44845,
+                  "text": "Reinhard Genzel och Andrea Ghez",
+                  "answer_start": 264,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem visade att savartahål är en direckt följd av den allmänna relativitetsteorin?",
+              "id": 44851,
+              "answers": [
+                {
+                  "answer_id": 45871,
+                  "document_id": 43716,
+                  "question_id": 44851,
+                  "text": "Roger Penrose",
+                  "answer_start": 172,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Om svarta hål och Vintergatans mörkaste hemlighet.\nTre pristagare delar årets Nobelpris i fysik för deras upptäckter om ett av universums sällsammaste fenomen, svarta hål. Roger Penrose visade att svarta hål är en direkt följd av den allmänna relativitets-teorin. Reinhard Genzel och Andrea Ghez upptäckte att något osynligt och extremt tungt styr stjärnornas kretslopp närmast mitten av vår egen galax, Vintergatan. Ett supermassivt svart hål är den enda i dag kända förklaringen.\n",
+          "document_id": 43716
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad kan man observera att fastställa egenskaperna hos det svarta hålet?",
+              "id": 46353,
+              "answers": [
+                {
+                  "answer_id": 47364,
+                  "document_id": 45274,
+                  "question_id": 46353,
+                  "text": "hur det styr de omgivande stjärnornas rörelser med sin kolossala gravitation",
+                  "answer_start": 181,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad ligger i centrum av vår hemgalax?",
+              "id": 46355,
+              "answers": [
+                {
+                  "answer_id": 47366,
+                  "document_id": 45274,
+                  "question_id": 46355,
+                  "text": "Vintergatan",
+                  "answer_start": 374,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem utforskade Vintergatan?",
+              "id": 46356,
+              "answers": [
+                {
+                  "answer_id": 47367,
+                  "document_id": 45274,
+                  "question_id": 46356,
+                  "text": "Reinhard Genzel och Andrea Ghez",
+                  "answer_start": 259,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad består av Vintergatan?",
+              "id": 46357,
+              "answers": [
+                {
+                  "answer_id": 47368,
+                  "document_id": 45274,
+                  "question_id": 46357,
+                  "text": " gas och stoft och några hundra miljarder stjärnor",
+                  "answer_start": 472,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Svart hål styr stjärnbanorna. Hur ska man då se in i ett svart hål? Det kan man som sagt inte. Däremot går det att fastställa egen-skaperna hos det svarta hålet genom att observera hur det styr de omgivande stjärnornas rörelser med sin kolossala gravitation. Reinhard Genzel och Andrea Ghez har med sina forskargrupper på var sitt håll tagit sig an centrum av vår hemgalax, Vintergatan. Galaxen är utformad som en platt skiva, cirka 100 000 ljusår tvärsöver. Den består av gas och stoft och några hundra miljarder stjärnor. En av stjärnorna är vår sol.\n",
+          "document_id": 45274
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad skymmer det mesta av synligt ljus som sänds ut från galaxens centrum på jordens utkikspunkt?",
+              "id": 46359,
+              "answers": [
+                {
+                  "answer_id": 47370,
+                  "document_id": 45275,
+                  "question_id": 46359,
+                  "text": "mäktiga gas- och stoftmoln",
+                  "answer_start": 47,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad som används kunde astronomerna för att se igenom galaxskivan först?",
+              "id": 46366,
+              "answers": [
+                {
+                  "answer_id": 47377,
+                  "document_id": 45275,
+                  "question_id": 46366,
+                  "text": "infraröda teleskop och radioteknik",
+                  "answer_start": 146,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är med som vägvisare kunde Genzel och Ghez få bevisen på ett osynligtsupermassivt objekt ruvar där inne?",
+              "id": 46370,
+              "answers": [
+                {
+                  "answer_id": 47381,
+                  "document_id": 45275,
+                  "question_id": 46370,
+                  "text": "stjärnbanorna",
+                  "answer_start": 274,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Från vår utkikspunkt på jorden skymmer rymdens mäktiga gas- och stoftmoln det mesta av synligt ljus som sänds ut från galaxens centrum. Först med infraröda teleskop och radioteknik kunde astro-nomerna se igenom galaxskivan in mot stjärnorna kring mitten av Vintergatan. Med stjärnbanorna som vägvisare har Genzel och Ghez fått fram de mest övertygande bevisen hittills på att ett osynligt supermassivt objekt ruvar där inne. Ett svart hål är den enda kända förklaringen.\n",
+          "document_id": 45275
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Var misstankas om ett svart hål kunde finnas?",
+              "id": 48864,
+              "answers": [
+                {
+                  "answer_id": 50565,
+                  "document_id": 45449,
+                  "question_id": 48864,
+                  "text": "mitt i Vintergatan",
+                  "answer_start": 77,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "När upptäcktes kvasarerna?",
+              "id": 48866,
+              "answers": [
+                {
+                  "answer_id": 50567,
+                  "document_id": 45449,
+                  "question_id": 48866,
+                  "text": "i början av 1960-talet",
+                  "answer_start": 163,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Misstankarna riktas mot mitten. Misstanken om att ett svart hål kunde finnas mitt i Vintergatan har nu funnits i drygt femtio år. Allt-sedan kvasarerna upptäcktes i början av 1960-talet resonerade fysiker om att supermassiva svarta hål på mellan någon miljon och många miljarder solmassor borde finnas inuti de flesta stora galaxer. Så också i Vintergatan, även om ingen i dag kan säga hur det gick till då galaxerna och deras svarta hål bildades.\n",
+          "document_id": 45449
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur gjorde Harlow Shapley den förste att peka ut mitten av Vintergatan?",
+              "id": 48867,
+              "answers": [
+                {
+                  "answer_id": 50568,
+                  "document_id": 45450,
+                  "question_id": 48867,
+                  "text": "mot stjärnbilden Skytten",
+                  "answer_start": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är Sagittarius A?",
+              "id": 48869,
+              "answers": [
+                {
+                  "answer_id": 50570,
+                  "document_id": 45450,
+                  "question_id": 48869,
+                  "text": "en stark källa till radiovågor",
+                  "answer_start": 213,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "När stod det klart att Sagittarius A upptar Vintergatans mitt?",
+              "id": 48870,
+              "answers": [
+                {
+                  "answer_id": 50571,
+                  "document_id": 45450,
+                  "question_id": 48870,
+                  "text": "slutet av 1960-talet",
+                  "answer_start": 284,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Den förste att peka ut mitten av Vintergatan mot stjärnbilden Skytten, eller Sagittarius på latin, var den amerikanske astronomen Harlow Shapley för hundra år sedan. Vid senare observationer fann astronomerna där en stark källa till radiovågor som döptes till Sagittarius A*, och mot slutet av 1960-talet blev det klart att Sagittarius A* faktiskt upptar Vintergatans mitt som galaxens stjärnor kretsar omkring.\n",
+          "document_id": 45450
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad som behövs för att studera Sagittarius A?",
+              "id": 48877,
+              "answers": [
+                {
+                  "answer_id": 50578,
+                  "document_id": 45451,
+                  "question_id": 48877,
+                  "text": "större teleskop och bättre utrustning",
+                  "answer_start": 43,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad försökte Genzel och Ghez med bättre utrustning?",
+              "id": 48873,
+              "answers": [
+                {
+                  "answer_id": 50574,
+                  "document_id": 45451,
+                  "question_id": 48873,
+                  "text": "se igenom stoftmolnen ända in till centrum av Vintergatan",
+                  "answer_start": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Det dröjde ända fram till 1990-talet innan större teleskop och bättre utrustning tillät metodiska studier av Sagittarius A*. Reinhard Genzel och Andrea Ghez satte i gång var sitt projekt för att försöka se igenom stoftmolnen ända in till centrum av Vintergatan. Tillsammans med sina forskargrupper utvecklade och förfinade de tekniken, byggde avancerade instrument och satsade långsiktigt.\n",
+          "document_id": 45451
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Var står på Keckteleskopen som Andrea Ghez användas?",
+              "id": 49154,
+              "answers": [
+                {
+                  "answer_id": 50857,
+                  "document_id": 45453,
+                  "question_id": 49154,
+                  "text": "Mauna Kea på Hawaii",
+                  "answer_start": 94,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur många sexkantiga segment varge spegel har?",
+              "id": 49155,
+              "answers": [
+                {
+                  "answer_id": 50858,
+                  "document_id": 45453,
+                  "question_id": 49155,
+                  "text": "36",
+                  "answer_start": 247,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I USA använder Andrea Ghez och hennes forskarkollegor Keckteleskopen, som står på bergstoppen Mauna Kea på Hawaii. Med sina speglar på nästan 10 meter i diameter hör de i dag till världens största. Varje spegel liknar en honungskaka och består av 36 sexkantiga segment som kan styras var för sig för att bättre fokusera stjärnljuset.\n",
+          "document_id": 45453
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vem visade att savarta hål faktiskt kan bildas?",
+              "id": 45063,
+              "answers": [
+                {
+                  "answer_id": 46126,
+                  "document_id": 43718,
+                  "question_id": 45063,
+                  "text": "Roger Penrose",
+                  "answer_start": 191,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur beskrev Roger Penrose detta svart hål i detalj?",
+              "id": 45081,
+              "answers": [
+                {
+                  "answer_id": 46145,
+                  "document_id": 43718,
+                  "question_id": 45081,
+                  "text": "svarta hål ruvar innerst inne på en singularitet, en gräns där alla de kända naturlagarna upphör",
+                  "answer_start": 271,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Till viket syfte behövde Penrose utvidga de kända metoderna för att studera relativitetsteorin?",
+              "id": 45109,
+              "answers": [
+                {
+                  "answer_id": 46176,
+                  "document_id": 43718,
+                  "question_id": 45109,
+                  "text": "att bevisa att de svarta hålen verkligen är en robust förutsägelse",
+                  "answer_start": 373,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Viket år publicerad Penroses banbrytande artikel?",
+              "id": 45115,
+              "answers": [
+                {
+                  "answer_id": 46183,
+                  "document_id": 43718,
+                  "question_id": 45115,
+                  "text": "1965",
+                  "answer_start": 684,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vems artikel ses som det viktigaste bidraget till den allmänna relativitetsteorin sedan Einstein?",
+              "id": 45121,
+              "answers": [
+                {
+                  "answer_id": 46189,
+                  "document_id": 43718,
+                  "question_id": 45121,
+                  "text": "Penroses banbrytande artikel ",
+                  "answer_start": 638,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Genombrott bortom Einstein. Inte ens Albert Einstein, den allmänna relativitetsteorins fader, trodde att svarta hål fanns på riktigt. Men tio år efter hans död visade den brittiske forskaren Roger Penrose att svarta hål faktiskt kan bildas och beskrev dem i detalj: alla svarta hål ruvar innerst inne på en singularitet, en gräns där alla de kända naturlagarna upphör. För att bevisa att de svarta hålen verkligen är en robust förutsägelse av den allmänna relativitets-teorin behövde Penrose utvidga de kända metoderna för att studera relativitetsteorin – för första gången tacklades teorins problem med hjälp av nya matematiska begrepp. Penroses banbrytande artikel kom ut i januari 1965 och ses fortfarande som det viktigaste bidraget till den allmänna relativitetsteorin sedan Einstein.\n",
+          "document_id": 43718
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad är den allmänna relativitetsteorins märkligaste resultat.",
+              "id": 45615,
+              "answers": [
+                {
+                  "answer_id": 46687,
+                  "document_id": 43719,
+                  "question_id": 45615,
+                  "text": "Svarta hål",
+                  "answer_start": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad den allmänna relativitetsteorin används även praktiskt i vår vanligaste navigeringsverktyg?",
+              "id": 45616,
+              "answers": [
+                {
+                  "answer_id": 46688,
+                  "document_id": 43719,
+                  "question_id": 45616,
+                  "text": "GPS",
+                  "answer_start": 456,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad kan styrs av gravitationen?",
+              "id": 45619,
+              "answers": [
+                {
+                  "answer_id": 46691,
+                  "document_id": 43719,
+                  "question_id": 45619,
+                  "text": "planeternas banor runt solen och solens bana runt Vintergatans centrum",
+                  "answer_start": 590,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Viken type av massa kan kröka rummet och bromsa tiden?",
+              "id": 45620,
+              "answers": [
+                {
+                  "answer_id": 46692,
+                  "document_id": 43719,
+                  "question_id": 45620,
+                  "text": "En tung",
+                  "answer_start": 818,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad som behövs för att bilda ett svart hål?",
+              "id": 45621,
+              "answers": [
+                {
+                  "answer_id": 46693,
+                  "document_id": 43719,
+                  "question_id": 45621,
+                  "text": "en extremt tung massa",
+                  "answer_start": 865,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Gravitationen håller universum i sitt grepp. Svarta hål är ett av den allmänna relativitetsteorins märkligaste resultat. När Albert Einstein presenterade sin teori i november 1915 ställdes alla tidigare begrepp om tid och rum på ända. Den gav en helt ny förståelse av gravitationen, som styr världsalltet i stor skala. Sedan dess har teorin varit oumbärlig för alla studier av universum och den används även praktiskt i vårt vanligaste navigeringsverktyg, GPS. Einsteins teori beskriver hur allt och alla i hela universum är fast i gravitationens grepp. Den håller oss kvar på jorden, styr planeternas banor runt solen och solens bana runt Vintergatans centrum. Den får stjärnor att födas ur rymdmolnen, och så småningom också dö i en gravitationell kollaps. Gravitationen ger form åt rummet och påverkar tidens gång. En tung massa kröker rummet och bromsar tiden, en extremt tung massa kan till och med snörpa av och stänga in en bit av rummet. Ett svart hål har bildats.\n",
+          "document_id": 43719
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad betyder de svarta hålen för fysiker?",
+              "id": 45644,
+              "answers": [
+                {
+                  "answer_id": 46716,
+                  "document_id": 43722,
+                  "question_id": 45644,
+                  "text": "en naturlig slutstation för jättestjärnornas evolution",
+                  "answer_start": 136,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "När gjordes en första beräkning av en massiv stjärnas dramatiska kollaps?",
+              "id": 45646,
+              "answers": [
+                {
+                  "answer_id": 46718,
+                  "document_id": 43722,
+                  "question_id": 45646,
+                  "text": "i slutet av 1930-talet",
+                  "answer_start": 261,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem ledde det amerikanska atombombsbygget?",
+              "id": 45647,
+              "answers": [
+                {
+                  "answer_id": 46719,
+                  "document_id": 43722,
+                  "question_id": 45647,
+                  "text": "Robert Oppenheimer",
+                  "answer_start": 296,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "I vilket fall exploderar de stjärnjättar först som supernovor?",
+              "id": 45655,
+              "answers": [
+                {
+                  "answer_id": 46727,
+                  "document_id": 43722,
+                  "question_id": 45655,
+                  "text": "får slut på sitt bränsle",
+                  "answer_start": 433,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Lösning bortom det perfekta Begreppet svart hål har hittat nya innebörder i kulturens många uttryck, men för fysiker är de svarta hålen en naturlig slutstation för jättestjärnornas evolution. En första beräkning av en massiv stjärnas dramatiska kollaps gjordes i slutet av 1930-talet av fysikern Robert Oppenheimer, senare ledare för Manhattanprojektet, det amerikanska atombombsbygget. När stjärnjättar flera gånger tyngre än solen får slut på sitt bränsle exploderar de först som supernovor för att sedan störta samman till extremt tätt sammanpackade rester, så tunga att gravitationen stänger in allt inuti, till och med ljuset.\n",
+          "document_id": 43722
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "När kom den första teoretiska beskrivningen av ett svart hål?",
+              "id": 45623,
+              "answers": [
+                {
+                  "answer_id": 46695,
+                  "document_id": 43721,
+                  "question_id": 45623,
+                  "text": "några veckor efter publiceringen av den allmänna relativitetsteorin",
+                  "answer_start": 85,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är medborgarskap för Karl Schwarzschild?",
+              "id": 45626,
+              "answers": [
+                {
+                  "answer_id": 46698,
+                  "document_id": 43721,
+                  "question_id": 45626,
+                  "text": "tyske",
+                  "answer_start": 228,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad gömmar den svarta hålet håll sig för evigt?",
+              "id": 45629,
+              "answers": [
+                {
+                  "answer_id": 46701,
+                  "document_id": 43721,
+                  "question_id": 45629,
+                  "text": "händelsehorisont",
+                  "answer_start": 552,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad blir storleken på horisont för en massa som jorden?",
+              "id": 45633,
+              "answers": [
+                {
+                  "answer_id": 46705,
+                  "document_id": 43721,
+                  "question_id": 45633,
+                  "text": "nio millimeter i diameter",
+                  "answer_start": 772,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Den första teoretiska beskrivningen av det som numera kallas ett svart hål kom redan några veckor efter publiceringen av den allmänna relativitetsteorin. Trots att teorins ekvationer är mycket matematiskt komplicerade kunde den tyske astrofysikern Karl Schwarzschild förse Einstein med en lösning som beskriver hur tung massa kröker rummet och tiden. Senare studier visade att ett svart hål, när det en gång bildats, omges av en händelsehorisont som likt en slöja sveper runt om massan i mitten. Det svarta hålet håller sig för evigt gömt innanför sin händelsehorisont. Ju större massa desto större är det svarta hålet och dess horisont: för en massa motsvarande solens massa blir händelsehorisonten knappt tre kilometer i diameter, för en massa som jordens blir den bara nio millimeter i diameter.\n",
+          "document_id": 43721
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vem kom på idén om \"mörka stjärnor\" i slutet av 1700-talet?",
+              "id": 46102,
+              "answers": [
+                {
+                  "answer_id": 47113,
+                  "document_id": 45263,
+                  "question_id": 46102,
+                  "text": "den brittiske filosofen och matematikern John Michell och den berömde franske vetenskapsmannen Pierre Simon de Laplace",
+                  "answer_start": 71,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur lösningarna till teorins beskrev om ideala förhållanden om stärnor och svarta hål?",
+              "id": 46109,
+              "answers": [
+                {
+                  "answer_id": 47119,
+                  "document_id": 45263,
+                  "question_id": 46109,
+                  "text": "perfekt runda och symmetriska",
+                  "answer_start": 707,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem var den förste som hittade en mer realistisk lösning för all kollapsande materia?",
+              "id": 46110,
+              "answers": [
+                {
+                  "answer_id": 47120,
+                  "document_id": 45263,
+                  "question_id": 46110,
+                  "text": "Roger Penrose",
+                  "answer_start": 780,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad beskriver teorin hos John Michell och Pierre Simon de Laplace?",
+              "id": 46115,
+              "answers": [
+                {
+                  "answer_id": 47125,
+                  "document_id": 45263,
+                  "question_id": 46115,
+                  "text": "himlakroppar kunde bli så tunga att de blev osynliga",
+                  "answer_start": 218,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Idén om ”mörka stjärnor” dök upp redan i slutet av 1700-talet hos både den brittiske filosofen och matematikern John Michell och den berömde franske vetenskapsmannen Pierre Simon de Laplace. Båda hade resonerat om att himlakroppar kunde bli så tunga att de blev osynliga – inte ens ljusets hastighet skulle räcka till för att fly undan gravitationen. När Albert Einstein publicerade sin allmänna relativitetsteori drygt hundra år senare kom en del av lösningarna till teorins ökänt svåra ekvationer att beskriva just sådana mörka stjärnor. Dessa lösningar betraktades dock ända fram till 1960-talet som rent teoretiska spekulationer som handlade om ideala förhållanden där stjärnor och deras svarta hål var perfekt runda och symmetriska. Men inget i hela universum är perfekt och Roger Penrose var den förste som lyckades visa att det finns en mer realistisk lösning för all kollapsande materia, med sina naturliga bucklor och skavanker.\n",
+          "document_id": 45263
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vilket land ligger NTT och VLT?",
+              "id": 48905,
+              "answers": [
+                {
+                  "answer_id": 50606,
+                  "document_id": 45452,
+                  "question_id": 48905,
+                  "text": "Chile",
+                  "answer_start": 268,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är storleken på VLT jämfört med NTT?",
+              "id": 48936,
+              "answers": [
+                {
+                  "answer_id": 50637,
+                  "document_id": 45452,
+                  "question_id": 48936,
+                  "text": "dubbelt så stora",
+                  "answer_start": 309,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är storlek av VLTs speglar?",
+              "id": 48943,
+              "answers": [
+                {
+                  "answer_id": 50644,
+                  "document_id": 45452,
+                  "question_id": 48943,
+                  "text": "drygt 8 meters ",
+                  "answer_start": 553,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bara världens största teleskop duger till att spana mot avlägsna stjärnor. Ju större desto bättre gäller i allra högsta grad inom astronomin. Den tyske astronomen Reinhard Genzel och hans grupp använde till en början NTT, New Technology Telescope på La Silla-berget i Chile. Det var föregångaren till de fyra dubbelt så stora jätteteleskopen, som ingår i Very Large Telescope, VLT, på Paranalberget (också i Chile), dit gruppen så småningom flyttade sina observationer. VLT-teleskopen har världens största monolitiska spelar - stöpta i ett stycke - med drygt 8 meters diameter var.\n",
+          "document_id": 45452
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur djupt bor vi på lufthav?",
+              "id": 49157,
+              "answers": [
+                {
+                  "answer_id": 50860,
+                  "document_id": 51343,
+                  "question_id": 49157,
+                  "text": "100 kilometer",
+                  "answer_start": 172,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad bryter ljuset på dess väg och deformerar ljusvågen?",
+              "id": 49158,
+              "answers": [
+                {
+                  "answer_id": 50861,
+                  "document_id": 51343,
+                  "question_id": 49158,
+                  "text": "Stora luftbubblor",
+                  "answer_start": 201,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Stjärnorna visar vägen. Men hur stora teleskopen än är så finns det alltid en gräns för hur små detaljer de kan se. Detta är en följd av att vi bor på botten av ett nästan 100 kilometer djupt lufthav. Stora luftbubblor ovanför teleskopet, kallare eller varmare än omgivningen, fungerar som linser som bryter ljuset på dess väg ner mot teleskopspegeln och deformerar ljusvågen. Därför ser stjärnorna ut att blinka, och därför blir bilderna oskarpa.\n",
+          "document_id": 51343
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad hjälpt Penrose att bevisa att det svart hål alltid döljer sig en singularitet?",
+              "id": 46317,
+              "answers": [
+                {
+                  "answer_id": 47328,
+                  "document_id": 45270,
+                  "question_id": 46317,
+                  "text": "fångade ytor",
+                  "answer_start": 133,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är densiteten för ett svart hål?",
+              "id": 46319,
+              "answers": [
+                {
+                  "answer_id": 47330,
+                  "document_id": 45270,
+                  "question_id": 46319,
+                  "text": "oändlig",
+                  "answer_start": 288,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Viken metoder som Penrose införde är omistliga för krokta universums studier i dag?",
+              "id": 46320,
+              "answers": [
+                {
+                  "answer_id": 47331,
+                  "document_id": 45270,
+                  "question_id": 46320,
+                  "text": "Topologiska metoder",
+                  "answer_start": 478,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "En fångad yta tvingar alla strålar som faller mot den att peka mot mitten, oberoende av om ytan buktar utåt eller inåt. Med hjälp av fångade ytor kunde Penrose bevisa att det inuti ett svart hål alltid döljer sig en singularitet, en gräns där rummet och tiden tar slut. Densiteten är där oändlig och ingen teori finns ännu för att ta sig an detta fysikens märkligaste fenomen. De fångade ytorna blev centrala begrepp när Penrose fullföljde sitt bevis för singularitetsteoremet. Topologiska metoder som han införde är i dag omistliga för studier av vårt krökta universum.\n",
+          "document_id": 45270
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad blev avgörande för observationerna?",
+              "id": 49159,
+              "answers": [
+                {
+                  "answer_id": 50862,
+                  "document_id": 51344,
+                  "question_id": 49159,
+                  "text": "adaptiv optik",
+                  "answer_start": 25,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur länge har Genzel och Ghez följt sina steg för steg med hjälp av adaptiv optik?",
+              "id": 49160,
+              "answers": [
+                {
+                  "answer_id": 50863,
+                  "document_id": 51344,
+                  "question_id": 49160,
+                  "text": "I nästan trettio år",
+                  "answer_start": 192,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur mycket har bildupplösningen förfinat med adaptiv optik?",
+              "id": 49161,
+              "answers": [
+                {
+                  "answer_id": 50864,
+                  "document_id": 51344,
+                  "question_id": 49161,
+                  "text": "mer än tusenfalt",
+                  "answer_start": 483,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tillkomsten av så kallad adaptiv optik blev avgörande för observationerna. Teleskopet utrustas med en tunn extra spegel som följer turbulensen i luften och rättar till den deformerade bilden. I nästan trettio år har Reinhard Genzel och Andrea Ghez följt sina stjärnor steg för steg i det avlägsna stjärnmyllret i centrum av vår galax. Under tiden har de utvecklat och förfinat tekniken alltmer. Med känsligare digitala ljussensorer och bättre adaptiv optik har bildupplösningen ökat mer än tusenfalt, vilket innebär att de nu kan bestämma stjärnornas positioner mer exakt, natt för natt.\n",
+          "document_id": 51344
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vad är diameter av en cirkel område stjärnor går mest kaotiskt inom?",
+              "id": 49162,
+              "answers": [
+                {
+                  "answer_id": 50865,
+                  "document_id": 51345,
+                  "question_id": 49162,
+                  "text": "en ljusmånad",
+                  "answer_start": 118,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ad är beteenden som stjärnor befinner sig utanför den centrum område av galaxmitten?",
+              "id": 49163,
+              "answers": [
+                {
+                  "answer_id": 50866,
+                  "document_id": 51345,
+                  "question_id": 49163,
+                  "text": "färdas däremot i sina elliptiska banor i en mer ordnad rörelse",
+                  "answer_start": 265,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Forskarna följer de trettiotal stjärnor som lyser klarast i stjärnvimlet. Mest kaotiskt går det till inom en radie av en ljusmånad från centrum. Där uppför stjärnorna en rörig dans, som mest påminner om en bisvärm. De stjärnor som befinner sig utanför detta område färdas däremot i sina elliptiska banor i en mer ordnad rörelse.\n",
+          "document_id": 51345
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur länge tar solen att fullborda ett varv runt Vintergatns mitt?",
+              "id": 49165,
+              "answers": [
+                {
+                  "answer_id": 50868,
+                  "document_id": 51346,
+                  "question_id": 49165,
+                  "text": "drygt 200 miljoner år",
+                  "answer_start": 243,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vilken stjärna kan fullborda ett helt varv kring galaxmitten på nästan 16 år?",
+              "id": 49164,
+              "answers": [
+                {
+                  "answer_id": 50867,
+                  "document_id": 51346,
+                  "question_id": 49164,
+                  "text": "S2",
+                  "answer_start": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "En av stjärnorna, S2 eller S-O2, hinner fullborda ett helt varv kring galaxmitten på nästan 16 år. Det är rekordkort tid, och ett fynd för astronomerna som nu har hunnit kartlägga hela omloppsbanan. Som jämförelse behöver solen och planeterna drygt 200 miljoner år för ett varv runt Vintergatans mitt. Sist vi var på samma ställe i vår galax som nu, vandrade dinosaurierna på vår planet.\n",
+          "document_id": 51346
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur tungt beräknas det svarta hålet i Vintergatans centrum vara?",
+              "id": 46583,
+              "answers": [
+                {
+                  "answer_id": 47803,
+                  "document_id": 43717,
+                  "question_id": 46583,
+                  "text": "fyra miljoner solmassor",
+                  "answer_start": 652,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är utforskas av Roger Penrose genom snillrika matematiskametoder?",
+              "id": 44965,
+              "answers": [
+                {
+                  "answer_id": 46023,
+                  "document_id": 43717,
+                  "question_id": 44965,
+                  "text": "Albert Einsteins allmänna relativitetsteori",
+                  "answer_start": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad kan spärra in allt som kommer in i rummet och tiden?",
+              "id": 44970,
+              "answers": [
+                {
+                  "answer_id": 46028,
+                  "document_id": 43717,
+                  "question_id": 44970,
+                  "text": "svarta hål",
+                  "answer_start": 171,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "När har Reinhard Genzel och Andrea Ghez spanat mot ett område i centrum av vår hemgalx, Vintergatan?",
+              "id": 44983,
+              "answers": [
+                {
+                  "answer_id": 46041,
+                  "document_id": 43717,
+                  "question_id": 44983,
+                  "text": "början av 1990-talet",
+                  "answer_start": 365,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad har de kartlagtomloppsbanorna hos närmast mitten?",
+              "id": 44993,
+              "answers": [
+                {
+                  "answer_id": 46051,
+                  "document_id": 43717,
+                  "question_id": 44993,
+                  "text": "starkast lysande stjärnorna",
+                  "answer_start": 516,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vem fann att något osynligt och tungt tvingar stjärnmyllret att rusa runt?",
+              "id": 45008,
+              "answers": [
+                {
+                  "answer_id": 46066,
+                  "document_id": 43717,
+                  "question_id": 45008,
+                  "text": "Reinhard Genzel och Andrea Ghez leder var sin grupp astronomer",
+                  "answer_start": 292,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur mycket vikt trängs där inom ett område inte större än vårt solsystem?",
+              "id": 45015,
+              "answers": [
+                {
+                  "answer_id": 46074,
+                  "document_id": 43717,
+                  "question_id": 45015,
+                  "text": "Cirka fyra miljoner solmassor",
+                  "answer_start": 646,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är det som får stjärnorna längst in i Vintergatan att svänga runt med svindlande fart?",
+              "id": 45020,
+              "answers": [
+                {
+                  "answer_id": 46080,
+                  "document_id": 43717,
+                  "question_id": 45020,
+                  "text": "ett supermassivt svart hål",
+                  "answer_start": 895,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Roger Penrose uppfann snillrika matematiska metoder för att utforska Albert Einsteins allmänna relativitetsteori. Han visade att teorin faktiskt leder till att det bildas svarta hål, dessa monster i rummet och tiden som spärrar in allt som kommer in. Ingenting, inte ens ljus, kan ta sig ut.\nReinhard Genzel och Andrea Ghez leder var sin grupp astronomer som sedan början av 1990-talet har spanat mot ett område i centrum av vår hemgalax, Vintergatan. Med allt större precision har de kartlagt omloppsbanorna hos de starkast lysande stjärnorna närmast mitten. Båda grupperna fann att något osynligt och\ntungt tvingar stjärnmyllret att rusa runt. Cirka fyra miljoner solmassor trängs där inom ett område inte större än vårt solsystem. Vad är det som får stjärnorna längst in i Vintergatan att svänga runt med svindlande fart? Inom ramen för dagens gravitationsteori finns det bara en misstänkt – ett supermassivt svart hål.\n",
+          "document_id": 43717
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hur tung är det svarta hålet i centrum av vår galax?",
+              "id": 49166,
+              "answers": [
+                {
+                  "answer_id": 50869,
+                  "document_id": 51347,
+                  "question_id": 49166,
+                  "text": "cirka 4 miljoner solmassor",
+                  "answer_start": 179,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är storlek som svarta hålet hopträngda inom?",
+              "id": 49167,
+              "answers": [
+                {
+                  "answer_id": 50870,
+                  "document_id": 51347,
+                  "question_id": 49167,
+                  "text": "ett område av solsystemets storlek",
+                  "answer_start": 222,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vilken telescope lyckades att avbilda ett supermassivt svart hål i Messier?",
+              "id": 49169,
+              "answers": [
+                {
+                  "answer_id": 50872,
+                  "document_id": 51347,
+                  "question_id": 49169,
+                  "text": "Event Horizon",
+                  "answer_start": 360,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur långt är Messier från oss?",
+              "id": 49170,
+              "answers": [
+                {
+                  "answer_id": 50873,
+                  "document_id": 51347,
+                  "question_id": 49170,
+                  "text": "87 – 55 miljoner ljusår",
+                  "answer_start": 507,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Teorin och observationerna följs åt. De två forskargruppernas mätningar stämmer utmärkt överens och leder till slutsatsen att det svarta hålet i centrum av vår galax bör motsvara cirka 4 miljoner solmassor hopträngda inom ett område av solsystemets storlek. Snart kommer vi kanske att se Sagittarius A* direkt. Det står näst på tur efter att astronomnätverket Event Horizon Telescope för drygt ett år sedan lyckades avbilda den närmaste omgivningen av ett supermassivt svart hål längst in i galaxen Messier 87 – 55 miljoner ljusår från oss gapar ett öga svartare än svart omgiven av en ring av eld.\n",
+          "document_id": 51347
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "När gravitationsvågor fångades upp för första gången?",
+              "id": 49172,
+              "answers": [
+                {
+                  "answer_id": 50875,
+                  "document_id": 51348,
+                  "question_id": 49172,
+                  "text": "hösten 2015",
+                  "answer_start": 320,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vilket land fångade upp gravitationsvågor för första gången?",
+              "id": 49173,
+              "answers": [
+                {
+                  "answer_id": 50876,
+                  "document_id": 51348,
+                  "question_id": 49173,
+                  "text": "USA",
+                  "answer_start": 392,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hur tungt är M87 jämfört Sagittarius A?",
+              "id": 49171,
+              "answers": [
+                {
+                  "answer_id": 50874,
+                  "document_id": 51348,
+                  "question_id": 49171,
+                  "text": "drygt tusen gånger tyngre",
+                  "answer_start": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Den svarta kärnan i M87 är gigantisk, drygt tusen gånger tyngre än Sagittarius A*. Betydligt lättare var de kolliderande svarta hål som gav upphov till de nyligen upptäckta gravitationsvågorna. Gravitationsvågor har liksom svarta hål länge funnits enbart som beräkningar ur Einsteins allmänna relativitetsteori tills de hösten 2015 för första gången någonsin fångades upp av LIGO-detektorn i USA (Nobelpriset i fysik 2017).\n",
+          "document_id": 51348
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Var räcker den allmänna relativitetsteorin inte längre till?",
+              "id": 49174,
+              "answers": [
+                {
+                  "answer_id": 50877,
+                  "document_id": 51349,
+                  "question_id": 49174,
+                  "text": "i mötet med singularitetens oändligt",
+                  "answer_start": 117,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad är den två stöttepelare som ska förena i fysik?",
+              "id": 49175,
+              "answers": [
+                {
+                  "answer_id": 50878,
+                  "document_id": 51349,
+                  "question_id": 49175,
+                  "text": "relativitetsteorin och kvantmekaniken",
+                  "answer_start": 355,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Vad vi inte vet. Roger Penrose visade att svarta hål är en direkt konsekvens av den allmänna relativitetsteorin. Men i mötet med singularitetens oändligt starka gravitation räcker teorin inte längre till. Ett intensivt arbete pågår i dag inom den teoretiska fysiken för att skapa en ny teori om kvantgravitation. Den ska förena fysikens två stöttepelare, relativitetsteorin och kvantmekaniken, som möts i de svarta hålens extrema inre.\n",
+          "document_id": 51349
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vems pionjärinsatser har banat väg för nya generationer predisionstester?",
+              "id": 49176,
+              "answers": [
+                {
+                  "answer_id": 50879,
+                  "document_id": 51350,
+                  "question_id": 49176,
+                  "text": "Reinhard Genzels och Andrea Ghez",
+                  "answer_start": 63,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Vad lämnas i universum?",
+              "id": 49177,
+              "answers": [
+                {
+                  "answer_id": 50880,
+                  "document_id": 51350,
+                  "question_id": 49177,
+                  "text": "många överraskningar kvar i sina gömmor",
+                  "answer_start": 346,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Samtidigt kommer observationerna allt närmare de svarta hålen. Reinhard Genzels och Andrea Ghez pionjärinsatser har banat väg för nya generationer precisionstester av den allmänna relativitetsteorin och dess mest bisarra förutsägelser. Troligtvis kommer mätningarna också att kunna ge ledtrådar till nya teoretiska insikter. Universum har säkert många överraskningar kvar i sina gömmor.\n",
+          "document_id": 51350
+        }
+      ]
+    }
+  ]
+}
